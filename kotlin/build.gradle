@@ -23,7 +23,7 @@ dependencies {
 }
 
 //set the "main" path
-mainClassName = 'TesterKt' //handle the .kt file
+mainClassName = 'DemoKt' //handle the .kt file
 
 //by default, run the program
 defaultTasks 'run'
